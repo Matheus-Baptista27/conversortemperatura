@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #50b4e2;
+}
+h1 {
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+}
+form {
+    background-color: rgb(187, 187, 187);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+label, select, input {
+    display: block;
+    margin: 10px 0;
+    text-align: left;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#resultado {
+    font-weight: bold;
+    color: #161616;
+    font-size: larger;
+    font-style: oblique;
+}
